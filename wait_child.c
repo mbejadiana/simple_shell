@@ -35,6 +35,7 @@ int main(int ac, char *av[])
 	{
 		pid = wait(&status);
 		printf("Child with PID %ld exited with status 0x%x.\n", (long)pid, status);
+		system("ls -l /tmp");
 		--n;
 	}
 
