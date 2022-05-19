@@ -1,4 +1,3 @@
-<img src="https://pbs.twimg.com/media/EfpJUkaXkAAwhhT?format=jpg&name=900x900" alt="shell" width="1000">
 
 # S I M P L E   S H E L L
 
